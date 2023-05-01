@@ -1,2 +1,2 @@
 # -RepositorioHenry-
-Repositorio de ejercicio numero 1 del prerpcourse
+Este proyecto es para solucion del ejercicio numero 1 del modulo 4
